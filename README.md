@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frodosynthesis
-- 👀 I’m interested in education and gaming
-- 🌱 I’m currently learning Unity
+- 👀 I'm currently interested in -> 3D Web Design and Development
+- 🌱 I’m currently learning -> ThreeJS!
 - 💞️ I’m looking to collaborate on game projects/jams, apps, etc.
 - 📫 How to reach me -> Email!
 
