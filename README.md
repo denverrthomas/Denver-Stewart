@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frodosynthesis
+- 👋 Hi, I’m @denverrthomas
 - 👀 I'm currently interested in -> 3D Web Design and Development
 - 🌱 I’m currently learning -> ThreeJS!
 - 💞️ I’m looking to collaborate on game projects/jams, apps, etc.
