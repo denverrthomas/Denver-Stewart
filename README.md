@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @denverrthomas
-- 👀 I'm currently interested in -> 3D Web Design and Development
-- 🌱 I’m currently learning -> ThreeJS!
-- 💞️ I’m looking to collaborate on game projects/jams, apps, etc.
-- 📫 How to reach me -> Email!
+# 🙌 Welcome to my Github! 
 
-<!---
-frodosynthesis/frodosynthesis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I am a developer focused on creating beautiful web experiences with the future in mind.
+
+## My Skills?
+⚙️ Technologies: HTML | CSS | Javascript | Next.js | React.js | Three.js | Node.js
+✒️ Prototyping: Adobe XD
+🌐 Version control: GIT
+
+
+## My interests and hobbies?
+⛰️ Hiking and traveling
+📸 Photography and film
+🎬 Movie buff
+
+## Like what you see?
+## You can also find me on...
+- LinkedIn: https://www.linkedin.com/in/denver-stewart-44a954244/
+- Instagram: https://www.instagram.com/denverrthomas/
+- Email me at denver.thomas.stewart@gmail.com
