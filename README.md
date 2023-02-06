@@ -1,6 +1,5 @@
 # 🙌 Welcome to my Github! 
-
-## I am a developer focused on creating beautiful web experiences with the future in mind.
+I am a developer focused on creating beautiful web experiences with the future in mind.
 
 ## My Skills?
 ⚙️ Technologies: HTML | CSS | Javascript | Next.js | React.js | Three.js | Node.js
